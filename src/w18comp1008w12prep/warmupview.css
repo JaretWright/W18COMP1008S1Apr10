@@ -1,0 +1,22 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-background-color: #1d3a68;
+}
+
+.ImageView {
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.label{
+    -fx-font: 20pt Arial;
+    -fx-text-fill: whitesmoke;
+}
+
+.check-box{
+    -fx-font: 16pt Arial;
+    -fx-text-fill: whitesmoke;
+}
